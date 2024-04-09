@@ -1,0 +1,14 @@
+C:\Users\SAM\source\repos\DevilsGate\DevilsGate\bin\Debug\net8.0\DevilsGate.exe
+C:\Users\SAM\source\repos\DevilsGate\DevilsGate\bin\Debug\net8.0\DevilsGate.deps.json
+C:\Users\SAM\source\repos\DevilsGate\DevilsGate\bin\Debug\net8.0\DevilsGate.runtimeconfig.json
+C:\Users\SAM\source\repos\DevilsGate\DevilsGate\bin\Debug\net8.0\DevilsGate.dll
+C:\Users\SAM\source\repos\DevilsGate\DevilsGate\bin\Debug\net8.0\DevilsGate.pdb
+C:\Users\SAM\source\repos\DevilsGate\DevilsGate\obj\Debug\net8.0\DevilsGate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAM\source\repos\DevilsGate\DevilsGate\obj\Debug\net8.0\DevilsGate.AssemblyInfoInputs.cache
+C:\Users\SAM\source\repos\DevilsGate\DevilsGate\obj\Debug\net8.0\DevilsGate.AssemblyInfo.cs
+C:\Users\SAM\source\repos\DevilsGate\DevilsGate\obj\Debug\net8.0\DevilsGate.csproj.CoreCompileInputs.cache
+C:\Users\SAM\source\repos\DevilsGate\DevilsGate\obj\Debug\net8.0\DevilsGate.dll
+C:\Users\SAM\source\repos\DevilsGate\DevilsGate\obj\Debug\net8.0\refint\DevilsGate.dll
+C:\Users\SAM\source\repos\DevilsGate\DevilsGate\obj\Debug\net8.0\DevilsGate.pdb
+C:\Users\SAM\source\repos\DevilsGate\DevilsGate\obj\Debug\net8.0\DevilsGate.genruntimeconfig.cache
+C:\Users\SAM\source\repos\DevilsGate\DevilsGate\obj\Debug\net8.0\ref\DevilsGate.dll
